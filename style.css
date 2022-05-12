@@ -3,13 +3,10 @@ html, body {
   padding: 0;
 }
 
-.breakbutton{
-  width:70px;
-  height: 70px;
-  border-radius: 35px;
-  background-image: url('./assets/axe.png');
+.blowButton{
+  width:140px;
+  height: 40px;
   background-color: #80deea;
-  padding: 10px;
   background-size: cover;
   display: inline-block;
   cursor: pointer;
